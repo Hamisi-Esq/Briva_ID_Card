@@ -5,5 +5,8 @@ This is how the Home screen looks like with my image in an vatar,with some label
 
 ![Screenshot_20210412-105121](https://user-images.githubusercontent.com/62157938/114362290-d7e20d80-9b7f-11eb-8173-524f8f0ae118.jpg)
 
+
+
+
 Its has a simple functionality, just to inrement the current coding level
 ![Screenshot_20210412-105134](https://user-images.githubusercontent.com/62157938/114362303-da446780-9b7f-11eb-80e7-299fcd5bcf80.jpg)
